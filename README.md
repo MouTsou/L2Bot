@@ -26,6 +26,6 @@ The bot is not really production ready but here are some information on how to r
 3. Recompile and run the bot
 4. Run Lineage 2
 5. When the bot has detected your instance of Lineage 2, attach to the detected l2 instance
-6. Login in, select your character, and join the game
+6. Log in, select your character, and join the game
 7. You are in, configure the bot and press "Start Botting"
 
